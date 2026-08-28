@@ -1,0 +1,7 @@
+*.zip
+*.mat
+*.h5
+*.Rda
+*.pdf
+.venv/
+__pycache__/

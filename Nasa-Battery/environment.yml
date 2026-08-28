@@ -1,0 +1,17 @@
+name: batteryenv
+channels:
+  - defaults
+dependencies:
+  - pip
+  - joblib
+  - matplotlib
+  - numpy
+  - xgboost
+  - pandas
+  - scipy
+  - scikit-learn
+  - ipykernel
+  - tensorboard
+  - tensorflow
+  - h5py
+  - keras

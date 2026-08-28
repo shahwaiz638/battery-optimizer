@@ -1,0 +1,252 @@
+{
+    "B0005": {
+        "temperature_C": "room temperature",
+        "charge_profile": "CC 1.5A to 4.2V, CV to 20mA",
+        "discharge_profile": "CC 2A",
+        "cut_off_voltage": "2.7V",
+        "end_of_life_criteria": "30% fade (from 2Ahr to 1.4Ahr)",
+        "comments": "Dataset can be used for the prediction of both remaining charge and remaining useful life (RUL)."
+    },
+    "B0006": {
+        "temperature_C": "room temperature",
+        "charge_profile": "CC 1.5A to 4.2V, CV to 20mA",
+        "discharge_profile": "CC 2A",
+        "cut_off_voltage": "2.5V",
+        "end_of_life_criteria": "30% fade (from 2Ahr to 1.4Ahr)",
+        "comments": "Dataset can be used for the prediction of both remaining charge and remaining useful life (RUL)."
+    },
+    "B0007": {
+        "temperature_C": "room temperature",
+        "charge_profile": "CC 1.5A to 4.2V, CV to 20mA",
+        "discharge_profile": "CC 2A",
+        "cut_off_voltage": "2.2V",
+        "end_of_life_criteria": "30% fade (from 2Ahr to 1.4Ahr)",
+        "comments": "Dataset can be used for the prediction of both remaining charge and remaining useful life (RUL)."
+    },
+    "B0018": {
+        "temperature_C": "room temperature",
+        "charge_profile": "CC 1.5A to 4.2V, CV to 20mA",
+        "discharge_profile": "CC 2A",
+        "cut_off_voltage": "2.5V",
+        "end_of_life_criteria": "30% fade (from 2Ahr to 1.4Ahr)",
+        "comments": "Dataset can be used for the prediction of both remaining charge and remaining useful life (RUL)."
+    },
+    "B0025": {
+        "temperature_C": 24,
+        "charge_profile": "CC 1.5A to 4.2V, CV to 20mA",
+        "discharge_profile": "0.05Hz square wave loading profile of 4A amplitude and 50% duty cycle",
+        "cut_off_voltage": "2.0V"
+    },
+    "B0026": {
+        "temperature_C": 24,
+        "charge_profile": "CC 1.5A to 4.2V, CV to 20mA",
+        "discharge_profile": "0.05Hz square wave loading profile of 4A amplitude and 50% duty cycle",
+        "cut_off_voltage": "2.2V"
+    },
+    "B0027": {
+        "temperature_C": 24,
+        "charge_profile": "CC 1.5A to 4.2V, CV to 20mA",
+        "discharge_profile": "0.05Hz square wave loading profile of 4A amplitude and 50% duty cycle",
+        "cut_off_voltage": "2.5V"
+    },
+    "B0028": {
+        "temperature_C": 24,
+        "charge_profile": "CC 1.5A to 4.2V, CV to 20mA",
+        "discharge_profile": "0.05Hz square wave loading profile of 4A amplitude and 50% duty cycle",
+        "cut_off_voltage": "2.7V"
+    },
+    "B0029": {
+        "temperature_C": 43,
+        "charge_profile": "CC 1.5A to 4.2V, CV to 20mA",
+        "discharge_profile": "4A",
+        "cut_off_voltage": "2.0V"
+    },
+    "B0030": {
+        "temperature_C": 43,
+        "charge_profile": "CC 1.5A to 4.2V, CV to 20mA",
+        "discharge_profile": "4A",
+        "cut_off_voltage": "2.2V"
+    },
+    "B0031": {
+        "temperature_C": 43,
+        "charge_profile": "CC 1.5A to 4.2V, CV to 20mA",
+        "discharge_profile": "4A",
+        "cut_off_voltage": "2.5V"
+    },
+    "B0032": {
+        "temperature_C": 43,
+        "charge_profile": "CC 1.5A to 4.2V, CV to 20mA",
+        "discharge_profile": "4A",
+        "cut_off_voltage": "2.7V"
+    },
+    "B0033": {
+        "temperature_C": 24,
+        "charge_profile": "CC 1.5A to 4.2V, CV to 20mA",
+        "discharge_profile": "4A",
+        "cut_off_voltage": "2.0V",
+        "end_of_life_criteria": "20% fade (capacity reduced to 1.6Ahr)"
+    },
+    "B0034": {
+        "temperature_C": 24,
+        "charge_profile": "CC 1.5A to 4.2V, CV to 20mA",
+        "discharge_profile": "4A",
+        "cut_off_voltage": "2.2V",
+        "end_of_life_criteria": "20% fade (capacity reduced to 1.6Ahr)"
+    },
+    "B0036": {
+        "temperature_C": 24,
+        "charge_profile": "CC 1.5A to 4.2V, CV to 20mA",
+        "discharge_profile": "2A",
+        "cut_off_voltage": "2.7V",
+        "end_of_life_criteria": "20% fade (capacity reduced to 1.6Ahr)"
+    },
+    "B0038": {
+        "temperature_C": "24 & 44",
+        "charge_profile": "CC 1.5A to 4.2V, CV to 20mA",
+        "discharge_profile": "Multiple load current levels (1, 2, and 4 A)",
+        "cut_off_voltage": "2.2V",
+        "end_of_life_criteria": "20% fade (capacity reduced to 1.6Ahr)"
+    },
+    "B0039": {
+        "temperature_C": "24 & 44",
+        "charge_profile": "CC 1.5A to 4.2V, CV to 20mA",
+        "discharge_profile": "Multiple load current levels (1, 2, and 4 A)",
+        "cut_off_voltage": "2.5V",
+        "end_of_life_criteria": "20% fade (capacity reduced to 1.6Ahr)"
+    },
+    "B0040": {
+        "temperature_C": "24 & 44",
+        "charge_profile": "CC 1.5A to 4.2V, CV to 20mA",
+        "discharge_profile": "Multiple load current levels (1, 2, and 4 A)",
+        "cut_off_voltage": "2.7V",
+        "end_of_life_criteria": "20% fade (capacity reduced to 1.6Ahr)"
+    },
+    "B0041": {
+        "temperature_C": 4,
+        "charge_profile": "CC 1.5A to 4.2V, CV to 20mA",
+        "discharge_profile": "Multiple fixed load current levels (4A and 1A)",
+        "cut_off_voltage": "2.0V",
+        "end_of_life_criteria": "30% fade (capacity reduced to 1.4Ahr)",
+        "comments": "There are several discharge runs where the capacity was very low. Reasons for this have not been fully analyzed."
+    },
+    "B0042": {
+        "temperature_C": 4,
+        "charge_profile": "CC 1.5A to 4.2V, CV to 20mA",
+        "discharge_profile": "Multiple fixed load current levels (4A and 1A)",
+        "cut_off_voltage": "2.2V",
+        "end_of_life_criteria": "30% fade (capacity reduced to 1.4Ahr)",
+        "comments": "There are several discharge runs where the capacity was very low. Reasons for this have not been fully analyzed."
+    },
+    "B0043": {
+        "temperature_C": 4,
+        "charge_profile": "CC 1.5A to 4.2V, CV to 20mA",
+        "discharge_profile": "Multiple fixed load current levels (4A and 1A)",
+        "cut_off_voltage": "2.5V",
+        "end_of_life_criteria": "30% fade (capacity reduced to 1.4Ahr)",
+        "comments": "There are several discharge runs where the capacity was very low. Reasons for this have not been fully analyzed."
+    },
+    "B0044": {
+        "temperature_C": 4,
+        "charge_profile": "CC 1.5A to 4.2V, CV to 20mA",
+        "discharge_profile": "Multiple fixed load current levels (4A and 1A)",
+        "cut_off_voltage": "2.7V",
+        "end_of_life_criteria": "30% fade (capacity reduced to 1.4Ahr)",
+        "comments": "There are several discharge runs where the capacity was very low. Reasons for this have not been fully analyzed."
+    },
+    "B0045": {
+        "temperature_C": 4,
+        "charge_profile": "CC 1.5A to 4.2V, CV to 20mA",
+        "discharge_profile": "Fixed load current level of 1A",
+        "cut_off_voltage": "2.0V",
+        "end_of_life_criteria": "30% fade (capacity reduced to 1.4Ahr)",
+        "comments": "There are several discharge runs where the capacity was very low. Reasons for this have not been fully analyzed."
+    },
+    "B0046": {
+        "temperature_C": 4,
+        "charge_profile": "CC 1.5A to 4.2V, CV to 20mA",
+        "discharge_profile": "Fixed load current level of 1A",
+        "cut_off_voltage": "2.2V",
+        "end_of_life_criteria": "30% fade (capacity reduced to 1.4Ahr)",
+        "comments": "There are several discharge runs where the capacity was very low. Reasons for this have not been fully analyzed."
+    },
+    "B0047": {
+        "temperature_C": 4,
+        "charge_profile": "CC 1.5A to 4.2V, CV to 20mA",
+        "discharge_profile": "Fixed load current level of 1A",
+        "cut_off_voltage": "2.5V",
+        "end_of_life_criteria": "30% fade (capacity reduced to 1.4Ahr)",
+        "comments": "There are several discharge runs where the capacity was very low. Reasons for this have not been fully analyzed."
+    },
+    "B0048": {
+        "temperature_C": 4,
+        "charge_profile": "CC 1.5A to 4.2V, CV to 20mA",
+        "discharge_profile": "Fixed load current level of 1A",
+        "cut_off_voltage": "2.7V",
+        "end_of_life_criteria": "30% fade (capacity reduced to 1.4Ahr)",
+        "comments": "There are several discharge runs where the capacity was very low. Reasons for this have not been fully analyzed."
+    },
+    "B0049": {
+        "temperature_C": 4,
+        "charge_profile": "CC 1.5A to 4.2V, CV to 20mA",
+        "discharge_profile": "Fixed load current level of 2A",
+        "cut_off_voltage": "2.0V",
+        "end_of_life_criteria": "Experiment control software crashed",
+        "comments": "There are several discharge runs where the capacity as well as voltage levels were very low. Reasons for this have not been fully analyzed."
+    },
+    "B0050": {
+        "temperature_C": 4,
+        "charge_profile": "CC 1.5A to 4.2V, CV to 20mA",
+        "discharge_profile": "Fixed load current level of 2A",
+        "cut_off_voltage": "2.2V",
+        "end_of_life_criteria": "Experiment control software crashed",
+        "comments": "There are several discharge runs where the capacity as well as voltage levels were very low. Reasons for this have not been fully analyzed."
+    },
+    "B0051": {
+        "temperature_C": 4,
+        "charge_profile": "CC 1.5A to 4.2V, CV to 20mA",
+        "discharge_profile": "Fixed load current level of 2A",
+        "cut_off_voltage": "2.5V",
+        "end_of_life_criteria": "Experiment control software crashed",
+        "comments": "There are several discharge runs where the capacity as well as voltage levels were very low. Reasons for this have not been fully analyzed."
+    },
+    "B0052": {
+        "temperature_C": 4,
+        "charge_profile": "CC 1.5A to 4.2V, CV to 20mA",
+        "discharge_profile": "Fixed load current level of 2A",
+        "cut_off_voltage": "2.7V",
+        "end_of_life_criteria": "Experiment control software crashed",
+        "comments": "There are several discharge runs where the capacity as well as voltage levels were very low. Reasons for this have not been fully analyzed."
+    },
+    "B0053": {
+        "temperature_C": 4,
+        "charge_profile": "CC 1.5A to 4.2V, CV to 20mA",
+        "discharge_profile": "Fixed load current level of 2A",
+        "cut_off_voltage": "2.0V",
+        "end_of_life_criteria": "30% fade (capacity reduced to 1.4Ahr)",
+        "comments": "There are several discharge runs where the capacity was very low. Reasons for this have not been fully analyzed."
+    },
+    "B0054": {
+        "temperature_C": 4,
+        "charge_profile": "CC 1.5A to 4.2V, CV to 20mA",
+        "discharge_profile": "Fixed load current level of 2A",
+        "cut_off_voltage": "2.2V",
+        "end_of_life_criteria": "30% fade (capacity reduced to 1.4Ahr)",
+        "comments": "There are several discharge runs where the capacity was very low. Reasons for this have not been fully analyzed."
+    },
+    "B0055": {
+        "temperature_C": 4,
+        "charge_profile": "CC 1.5A to 4.2V, CV to 20mA",
+        "discharge_profile": "Fixed load current level of 2A",
+        "cut_off_voltage": "2.5V",
+        "end_of_life_criteria": "30% fade (capacity reduced to 1.4Ahr)",
+        "comments": "There are several discharge runs where the capacity was very low. Reasons for this have not been fully analyzed."
+    },
+    "B0056": {
+        "temperature_C": 4,
+        "charge_profile": "CC 1.5A to 4.2V, CV to 20mA",
+        "discharge_profile": "Fixed load current level of 2A",
+        "cut_off_voltage": "2.7V",
+        "end_of_life_criteria": "30% fade (capacity reduced to 1.4Ahr)",
+        "comments": "There are several discharge runs where the capacity was very low. Reasons for this have not been fully analyzed."
+    }
+}

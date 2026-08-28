@@ -1,0 +1,190 @@
+{
+    "RW9": {
+        "temperature_C": "room temperature",
+        "charge_discharge_profile": "Random Walk sequence between -4.5A and 4.5A. Loading periods lasted 5 minutes.",
+        "reference_benchmark_frequency": "After every 1500 periods (about 5 days)",
+        "comments": "Uniform distribution for charge and discharge."
+    },
+    "RW10": {
+        "temperature_C": "room temperature",
+        "charge_discharge_profile": "Random Walk sequence between -4.5A and 4.5A. Loading periods lasted 5 minutes.",
+        "reference_benchmark_frequency": "After every 1500 periods (about 5 days)",
+        "comments": "Uniform distribution for charge and discharge."
+    },
+    "RW11": {
+        "temperature_C": "room temperature",
+        "charge_discharge_profile": "Random Walk sequence between -4.5A and 4.5A. Loading periods lasted 5 minutes.",
+        "reference_benchmark_frequency": "After every 1500 periods (about 5 days)",
+        "comments": "Uniform distribution for charge and discharge."
+    },
+    "RW12": {
+        "temperature_C": "room temperature",
+        "charge_discharge_profile": "Random Walk sequence between -4.5A and 4.5A. Loading periods lasted 5 minutes.",
+        "reference_benchmark_frequency": "After every 1500 periods (about 5 days)",
+        "comments": "Uniform distribution for charge and discharge."
+    },
+    "RW3": {
+        "temperature_C": "room temperature",
+        "discharge_profile": "Repeatedly discharging to 3.2V using randomized sequence between 0.5A and 4A.",
+        "charge_profile": "Repeatedly charging to 4.2V",
+        "reference_benchmark_frequency": "After every 50 RW cycles"
+    },
+    "RW4": {
+        "temperature_C": "room temperature",
+        "discharge_profile": "Repeatedly discharging to 3.2V using randomized sequence between 0.5A and 4A.",
+        "charge_profile": "Repeatedly charging to 4.2V",
+        "reference_benchmark_frequency": "After every 50 RW cycles"
+    },
+    "RW5": {
+        "temperature_C": "room temperature",
+        "discharge_profile": "Repeatedly discharging to 3.2V using randomized sequence between 0.5A and 4A.",
+        "charge_profile": "Repeatedly charging to 4.2V",
+        "reference_benchmark_frequency": "After every 50 RW cycles"
+    },
+    "RW6": {
+        "temperature_C": "room temperature",
+        "discharge_profile": "Repeatedly discharging to 3.2V using randomized sequence between 0.5A and 4A.",
+        "charge_profile": "Repeatedly charging to 4.2V",
+        "reference_benchmark_frequency": "After every 50 RW cycles"
+    },
+    "RW1": {
+        "temperature_C": "room temperature",
+        "discharge_profile": "Repeatedly discharging to 3.2V using randomized sequence between 0.5A and 4A.",
+        "charge_profile": "Randomly selected duration between 0.5 hours and 3 hours.",
+        "reference_benchmark_frequency": "After every 50 RW cycles",
+        "comments": "Uniform discharge with variable recharge periods."
+    },
+    "RW2": {
+        "temperature_C": "room temperature",
+        "discharge_profile": "Repeatedly discharging to 3.2V using randomized sequence between 0.5A and 4A.",
+        "charge_profile": "Randomly selected duration between 0.5 hours and 3 hours.",
+        "reference_benchmark_frequency": "After every 50 RW cycles",
+        "comments": "Uniform discharge with variable recharge periods."
+    },
+    "RW7": {
+        "temperature_C": "room temperature",
+        "discharge_profile": "Repeatedly discharging to 3.2V using randomized sequence between 0.5A and 4A.",
+        "charge_profile": "Randomly selected duration between 0.5 hours and 3 hours.",
+        "reference_benchmark_frequency": "After every 50 RW cycles",
+        "comments": "Uniform discharge with variable recharge periods."
+    },
+    "RW8": {
+        "temperature_C": "room temperature",
+        "discharge_profile": "Repeatedly discharging to 3.2V using randomized sequence between 0.5A and 4A.",
+        "charge_profile": "Randomly selected duration between 0.5 hours and 3 hours.",
+        "reference_benchmark_frequency": "After every 50 RW cycles",
+        "comments": "Uniform discharge with variable recharge periods."
+    },
+    "RW25": {
+        "temperature_C": 40,
+        "discharge_profile": "Repeatedly discharging to 3.2V using randomized sequence between 0.5A and 5A. Update every 1 min.",
+        "charge_profile": "Repeatedly charging to 4.2V",
+        "reference_benchmark_frequency": "After every 50 RW cycles",
+        "comments": "Type of distribution: Skewed towards selecting higher currents (Right Skewed)."
+    },
+    "RW26": {
+        "temperature_C": 40,
+        "discharge_profile": "Repeatedly discharging to 3.2V using randomized sequence between 0.5A and 5A. Update every 1 min.",
+        "charge_profile": "Repeatedly charging to 4.2V",
+        "reference_benchmark_frequency": "After every 50 RW cycles",
+        "comments": "Type of distribution: Skewed towards selecting higher currents (Right Skewed)."
+    },
+    "RW27": {
+        "temperature_C": 40,
+        "discharge_profile": "Repeatedly discharging to 3.2V using randomized sequence between 0.5A and 5A. Update every 1 min.",
+        "charge_profile": "Repeatedly charging to 4.2V",
+        "reference_benchmark_frequency": "After every 50 RW cycles",
+        "comments": "Type of distribution: Skewed towards selecting higher currents (Right Skewed)."
+    },
+    "RW28": {
+        "temperature_C": 40,
+        "discharge_profile": "Repeatedly discharging to 3.2V using randomized sequence between 0.5A and 5A. Update every 1 min.",
+        "charge_profile": "Repeatedly charging to 4.2V",
+        "reference_benchmark_frequency": "After every 50 RW cycles",
+        "comments": "Type of distribution: Skewed towards selecting higher currents (Right Skewed)."
+    },
+    "RW17": {
+        "temperature_C": "room temperature",
+        "discharge_profile": "Repeatedly discharging to 3.2V using randomized sequence between 0.5A and 5A. Update every 1 min.",
+        "charge_profile": "Repeatedly charging to 4.2V",
+        "reference_benchmark_frequency": "After every 50 RW cycles",
+        "comments": "Type of distribution: Skewed towards selecting higher currents (Right Skewed)."
+    },
+    "RW18": {
+        "temperature_C": "room temperature",
+        "discharge_profile": "Repeatedly discharging to 3.2V using randomized sequence between 0.5A and 5A. Update every 1 min.",
+        "charge_profile": "Repeatedly charging to 4.2V",
+        "reference_benchmark_frequency": "After every 50 RW cycles",
+        "comments": "Type of distribution: Skewed towards selecting higher currents (Right Skewed)."
+    },
+    "RW19": {
+        "temperature_C": "room temperature",
+        "discharge_profile": "Repeatedly discharging to 3.2V using randomized sequence between 0.5A and 5A. Update every 1 min.",
+        "charge_profile": "Repeatedly charging to 4.2V",
+        "reference_benchmark_frequency": "After every 50 RW cycles",
+        "comments": "Type of distribution: Skewed towards selecting higher currents (Right Skewed)."
+    },
+    "RW20": {
+        "temperature_C": "room temperature",
+        "discharge_profile": "Repeatedly discharging to 3.2V using randomized sequence between 0.5A and 5A. Update every 1 min.",
+        "charge_profile": "Repeatedly charging to 4.2V",
+        "reference_benchmark_frequency": "After every 50 RW cycles",
+        "comments": "Type of distribution: Skewed towards selecting higher currents (Right Skewed)."
+    },
+    "RW21": {
+        "temperature_C": 40,
+        "discharge_profile": "Repeatedly discharging to 3.2V using randomized sequence between 0.5A and 5A. Update every 1 min.",
+        "charge_profile": "Repeatedly charging to 4.2V",
+        "reference_benchmark_frequency": "After every 50 RW cycles",
+        "comments": "Type of distribution: Skewed towards selecting lower currents (Left Skewed)."
+    },
+    "RW22": {
+        "temperature_C": 40,
+        "discharge_profile": "Repeatedly discharging to 3.2V using randomized sequence between 0.5A and 5A. Update every 1 min.",
+        "charge_profile": "Repeatedly charging to 4.2V",
+        "reference_benchmark_frequency": "After every 50 RW cycles",
+        "comments": "Type of distribution: Skewed towards selecting lower currents (Left Skewed)."
+    },
+    "RW23": {
+        "temperature_C": 40,
+        "discharge_profile": "Repeatedly discharging to 3.2V using randomized sequence between 0.5A and 5A. Update every 1 min.",
+        "charge_profile": "Repeatedly charging to 4.2V",
+        "reference_benchmark_frequency": "After every 50 RW cycles",
+        "comments": "Type of distribution: Skewed towards selecting lower currents (Left Skewed)."
+    },
+    "RW24": {
+        "temperature_C": 40,
+        "discharge_profile": "Repeatedly discharging to 3.2V using randomized sequence between 0.5A and 5A. Update every 1 min.",
+        "charge_profile": "Repeatedly charging to 4.2V",
+        "reference_benchmark_frequency": "After every 50 RW cycles",
+        "comments": "Type of distribution: Skewed towards selecting lower currents (Left Skewed)."
+    },
+    "RW13": {
+        "temperature_C": "room temperature",
+        "discharge_profile": "Repeatedly discharging to 3.2V using randomized sequence between 0.5A and 5A. Update every 1 min.",
+        "charge_profile": "Repeatedly charging to 4.2V",
+        "reference_benchmark_frequency": "After every 50 RW cycles",
+        "comments": "Type of distribution: Skewed towards selecting lower currents (Left Skewed)."
+    },
+    "RW14": {
+        "temperature_C": "room temperature",
+        "discharge_profile": "Repeatedly discharging to 3.2V using randomized sequence between 0.5A and 5A. Update every 1 min.",
+        "charge_profile": "Repeatedly charging to 4.2V",
+        "reference_benchmark_frequency": "After every 50 RW cycles",
+        "comments": "Type of distribution: Skewed towards selecting lower currents (Left Skewed)."
+    },
+    "RW15": {
+        "temperature_C": "room temperature",
+        "discharge_profile": "Repeatedly discharging to 3.2V using randomized sequence between 0.5A and 5A. Update every 1 min.",
+        "charge_profile": "Repeatedly charging to 4.2V",
+        "reference_benchmark_frequency": "After every 50 RW cycles",
+        "comments": "Type of distribution: Skewed towards selecting lower currents (Left Skewed)."
+    },
+    "RW16": {
+        "temperature_C": "room temperature",
+        "discharge_profile": "Repeatedly discharging to 3.2V using randomized sequence between 0.5A and 5A. Update every 1 min.",
+        "charge_profile": "Repeatedly charging to 4.2V",
+        "reference_benchmark_frequency": "After every 50 RW cycles",
+        "comments": "Type of distribution: Skewed towards selecting lower currents (Left Skewed)."
+    }
+}
